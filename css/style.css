@@ -1,0 +1,159 @@
+body{
+    margin: 0;
+}
+
+.navbar{
+    background-color: #FFFBF0;
+}
+
+
+.navbar-brand img{
+    width: 340px;
+}
+
+.navbar-nav .nav-item  {
+    padding: 0px 16px;
+}
+
+.coustom-hover:hover{
+    border: 1px solid black;
+    padding: 0px 15px;
+}
+
+.banner-section{    
+    background-color: #FFFBF0;
+}
+
+.banner-section .container {
+    padding-top: 80px;
+    padding-bottom: 100px;
+}
+
+.banner-section .banner-inner .btn .fas{
+    padding-right: 6px;
+}
+
+
+.banner-section .banner-inner .btn {
+    color: white;
+    background-color: #8CA622;
+    padding: 11px 16px;
+    border-radius: 9px;
+}
+
+.banner-section .banner-inner h1{
+    font-size: 57px;
+    color: #FABE4C;
+    font-weight: 700;
+    margin-top: 42px;
+}
+
+.banner-section .banner-inner h1 span{
+    color: #363958;
+}
+
+.banner-section .banner-inner p {
+    max-width: 75%;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 20px 0;
+}
+
+.banner-img img{
+    width: 64%;
+    margin-left: 15%;
+}
+
+
+.card{
+    border: 1px solid #fff;
+    box-shadow: 1px 1px 10px;
+    border-radius: 8px;
+    margin-top: 50px;
+}
+
+.card {
+    border: none !important;
+    padding: 16px;
+}
+
+.woman-section .coustom-img {
+    width: 100%;
+    background-color: #F1F1F1;
+    border-radius: 20px;
+    height: 350px;
+}
+
+.card-body h3{
+    color: #363958;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.card-body p{
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.card-body h4{
+    margin-top: 12px;
+    color: #FABE4C;
+    font-weight: 700;
+}
+
+.card-body .btn{
+    color: white;
+    background-color: #8CA622;
+    padding: 11px 16px;
+    border-radius: 9px;
+}
+
+.card-body .btn .fas{
+    padding-right: 6px;
+}
+.woman-section h1 {
+    margin-top: 50px;
+    color: #363958;
+    font-size: 38px;
+    font-weight: 700;
+}
+
+.woman-section {
+    margin-bottom: 70px;
+}
+
+.servise-section .servise-icon img{
+    width: 100%;
+}
+
+.servise-section .servise{
+    box-shadow: 2px 2px 7px;
+    border-radius: 10px;
+    margin: 32px 0;
+}
+
+.servise-section .servise .servise-inner{
+    padding-top: 26px;
+}
+
+.servise-section .servise .servise-inner h5{
+    font-size: 20px;
+    font-weight: 700;
+    color: #363958;
+}
+
+.servise-section .servise .servise-inner p{
+    max-width: 90%;
+} 
+
+.servise-section .servise-banner{
+    padding-top: 85px;
+}
+.servise-section .servise-banner img{
+    width: 92%;
+    margin-left: 42px;
+}
+
+.servise-section{
+    margin-bottom: 50px;
+}
