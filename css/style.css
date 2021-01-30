@@ -67,9 +67,10 @@ body{
 
 .card{
     border: 1px solid #fff;
-    box-shadow: 1px 1px 10px;
+    box-shadow: 3px 4px 20px 0px;
     border-radius: 8px;
     margin-top: 50px;
+    border-radius: 1.25rem;
 }
 
 .card {
